@@ -1,0 +1,14 @@
+.auth-form {
+    background: #FFFCDF;
+    height: 100%;
+    width: 600px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+}
+
+.input-wrapper {
+    height: 30px;
+}
